@@ -1,1 +1,2 @@
-print("Coding is easy!") 
+print("Coding is easy!")
+print("Added line1")
